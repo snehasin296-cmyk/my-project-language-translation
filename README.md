@@ -11,4 +11,5 @@ Translates text between languages using Hugging Face MarianMT model.
 4. Select source language and target language (example: English → Hindi).
 5. The translated text will be displayed as output.
 
-   
+   <img width="898" height="364" alt="image" src="https://github.com/user-attachments/assets/280e537d-92db-466d-9f13-1380a2ea8220" />
+
